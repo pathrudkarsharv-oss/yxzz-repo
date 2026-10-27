@@ -1,3 +1,3 @@
-# yxzz-repo
+# Biopipeline-repo
 ....
 this code is helpful to know whether a biological pipeline is working or not
